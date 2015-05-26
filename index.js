@@ -29,7 +29,7 @@ var user = require('./user');
 app.use('/user',user);
 
 
-/* Passport.js documentation
+/* Passport.js documentation below:
 
 1. First define the strategy. 
   --------> You should always return a document (or whatever you need to pass) if successful
